@@ -1,6 +1,6 @@
 # ExpenseTrackApp
 Description
-The Expense Tracker App is a JavaFX-based desktop application integrated with MySQL, designed to help users manage and track their daily expenses efficiently. The application features a robust set of functionalities including adding, updating, deleting, and searching for expenses, making it a comprehensive tool for personal finance management.
+The Expense Tracker App is a JavaFX-based desktop application integrated with MySQL, designed to help users manage and track their daily expenses efficiently. The application features a robust set of functionalities including adding, updating, deleting, and searching for expenses, making it a comprehensive tool for personal finance management.The app also includes a registration and login system to secure user data.
 
 Features
 Add Expense: Easily add new expenses with detailed information including amount, category, date, and notes.
